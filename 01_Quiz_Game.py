@@ -1,5 +1,5 @@
 print("=" * 40)
-print("       WELCOME TO QUIZ MANIA")
+print("Welcome to Quiz Mania - Main Version")
 print("=" * 40)
 
 print("Let's start!")
