@@ -60,6 +60,14 @@ if suggestion == "yes":
         print(f"Congrats YOU WIN !!\nYour score is: {count}")
     else:
         print(f"Better Luck Next Time !!\nYour score is {count}")
+    
+    percentage = (count / 5) * 100
+
+    print("\n------ QUIZ SUMMARY ------")
+    print(f"Correct Answers: {count}")
+    print(f"Wrong Answers: {wrong}")
+    print(f"Percentage: {percentage}%")
+    print("--------------------------")
 
 else:
     quit()
