@@ -1,10 +1,7 @@
-
-
-
 def play_quiz():
     # Move your existing quiz code inside this function
     print("=" * 40)
-    print("       WELCOME TO QUIZ MANIA")
+    print("Welcome to Quiz Mania - Feature Version")
     print("=" * 40)
 
     print("Let's start!")
