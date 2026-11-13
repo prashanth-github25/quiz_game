@@ -1,4 +1,10 @@
-print("Welcome to my Quiz Menia")
+print("=" * 40)
+print("       WELCOME TO QUIZ MANIA")
+print("=" * 40)
+
+print("Let's start!")
+print("You will be asked 5 questions.")
+print("You need at least 4 correct answers to win.")
 
 suggestion = input("Do you Want to guess and play? ").lower()
 count = 0
